@@ -1,0 +1,14 @@
+img >.results-img {
+    width: 100px;
+    height: auto;
+
+}
+#fieldset {
+    position: relative;
+    
+}
+#legend {
+    position: absolute;
+    margin-top: 0px;
+    padding-top: 0px;
+}
